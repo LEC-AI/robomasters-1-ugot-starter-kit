@@ -1,0 +1,3 @@
+ugot==0.2.13
+# Optional, only for the live camera window in examples/03_camera_frames.py --view
+# opencv-python
